@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 發菩提心經論
+#+DATE: 2015-08-30 21:00:22.780541
+#+PROPERTY: JUAN 0
